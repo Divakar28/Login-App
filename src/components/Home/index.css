@@ -1,0 +1,7 @@
+.bg {
+  background: linear-gradient(to top, #b5b9ff, #2b2c49);
+  padding: 10px;
+  color: white;
+  text-align: center;
+  font-family: 'Roboto';
+}
